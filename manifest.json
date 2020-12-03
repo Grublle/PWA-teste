@@ -3,8 +3,8 @@
 "short_name": "DERMOS",
 "start_url": "/index.html",
 "display": "standalone",
-"background_color": "#c4c8ff",
-"theme_color": "#c4c8ff",
+"background_color": "#ffd0c4",
+"theme_color": "#ff4516",
 "orientation": "portrait-primary",
 "icons": [
     {
